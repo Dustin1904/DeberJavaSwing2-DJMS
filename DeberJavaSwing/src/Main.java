@@ -9,6 +9,5 @@ public class Main {
         frame.pack();
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
         frame.setVisible(true);
-
     }
 }
