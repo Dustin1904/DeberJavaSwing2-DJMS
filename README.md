@@ -4,7 +4,7 @@ Clase MAIN ---------------------------------------
 ![image](https://github.com/Dustin1904/DeberJavaSwing2-DJMS/assets/133397748/776cc8ea-6221-4011-b4fc-ad8a8b49ecbf)
 
 Clase Form 1 ------------------------------------------------------
-![image](https://github.com/Dustin1904/DeberJavaSwing2-DJMS/assets/133397748/a2a166e8-5feb-4cb5-8820-4f39e0d18bcc)
+![image](https://github.com/Dustin1904/DeberJavaSwing2-DJMS/assets/133397748/c36cb70f-cf9b-4c5f-ae16-664d31c435b8)
 
 Clase Form 2 ---------------------------------------------------- 
 ![image](https://github.com/Dustin1904/DeberJavaSwing2-DJMS/assets/133397748/ab3f0394-2a3d-4b70-9602-b2effea603e0)
